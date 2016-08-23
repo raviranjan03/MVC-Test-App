@@ -60,3 +60,65 @@ c:\users\rran15\documents\visual studio 2015\Projects\Demo Application\Demo Appl
 c:\users\rran15\documents\visual studio 2015\Projects\Demo Application\Demo Application.Tests\obj\Debug\Demo Application.Tests.csprojResolveAssemblyReference.cache
 c:\users\rran15\documents\visual studio 2015\Projects\Demo Application\Demo Application.Tests\obj\Debug\Demo Application.Tests.dll
 c:\users\rran15\documents\visual studio 2015\Projects\Demo Application\Demo Application.Tests\obj\Debug\Demo Application.Tests.pdb
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\ApplicationInsights.config
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\csc.exe
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\vbc.exe
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Demo Application.Tests.dll.config
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Demo Application.Tests.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Demo Application.Tests.pdb
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Demo Application.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Razor.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Owin.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Owin.Security.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Owin.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Http.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\EntityFramework.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Demo Application.pdb
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Razor.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Owin.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Optimization.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Owin.Security.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Http.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\EntityFramework.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\obj\Debug\Demo Application.Tests.csprojResolveAssemblyReference.cache
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\obj\Debug\Demo Application.Tests.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application.Tests\obj\Debug\Demo Application.Tests.pdb

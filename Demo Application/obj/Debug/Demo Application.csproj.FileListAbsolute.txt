@@ -86,3 +86,91 @@ c:\users\rran15\documents\visual studio 2015\Projects\Demo Application\Demo Appl
 c:\users\rran15\documents\visual studio 2015\Projects\Demo Application\Demo Application\obj\Debug\Demo Application.csprojResolveAssemblyReference.cache
 c:\users\rran15\documents\visual studio 2015\Projects\Demo Application\Demo Application\obj\Debug\Demo Application.dll
 c:\users\rran15\documents\visual studio 2015\Projects\Demo Application\Demo Application\obj\Debug\Demo Application.pdb
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\ApplicationInsights.config
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\csc.exe
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\System.Collections.Immutable.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\vbc.exe
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\VBCSCompiler.exe
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\roslyn\VBCSCompiler.exe.config
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Demo Application.dll.config
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Demo Application.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Demo Application.pdb
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Antlr3.Runtime.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\EntityFramework.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\EntityFramework.SqlServer.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.DependencyCollector.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.Web.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.WindowsServer.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.ApplicationInsights.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.Google.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Web.Infrastructure.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Newtonsoft.Json.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Owin.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Net.Http.Formatting.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Helpers.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Http.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Http.WebHost.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Mvc.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Optimization.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Razor.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.WebPages.Deployment.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.WebPages.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.WebPages.Razor.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\WebGrease.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.DependencyCollector.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.Web.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AI.WindowsServer.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.ApplicationInsights.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Helpers.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Mvc.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Optimization.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Razor.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.WebPages.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.WebPages.Deployment.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.WebPages.Razor.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Antlr3.Runtime.pdb
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Newtonsoft.Json.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Net.Http.Formatting.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Http.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\System.Web.Http.WebHost.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\EntityFramework.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\EntityFramework.SqlServer.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.Google.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Jenkins\Git\MVC-Test-App\Demo Application\obj\Debug\Demo Application.csprojResolveAssemblyReference.cache
+D:\Jenkins\Git\MVC-Test-App\Demo Application\obj\Debug\Demo Application.dll
+D:\Jenkins\Git\MVC-Test-App\Demo Application\obj\Debug\Demo Application.pdb
