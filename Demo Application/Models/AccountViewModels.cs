@@ -4,6 +4,8 @@ using System.ComponentModel.DataAnnotations;
 namespace Demo_Application.Models
 {
 	
+	
+	
     public class ExternalLoginConfirmationViewModel
     {
         [Required]
